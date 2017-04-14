@@ -9,17 +9,7 @@ This is Akaedo
 
 </body>
 
-<style>
 
-body {
-
-background-color:green;
-color:#fff;
-text-align:center;
-
-}
-
-</style>
 
 </html>
 
