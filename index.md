@@ -3,9 +3,7 @@
 This is Akaedo
 </head>
 
-<body> background-color:green </body>
-    
-<body> 
+<body background-color:green >
 
   <h> This is official Akaedo <h1>
 
