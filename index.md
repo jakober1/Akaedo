@@ -3,12 +3,21 @@
 This is Akaedo
 </head>
 
-<body style="background-color:blue;">
+<body>
 
   <h> This is official Akaedo </h>
 
 </body>
 
+<style>
+
+body {
+background-color:green;
+color:#fff;
+text-align:center;
+}
+
+</style>
 
 
 </html>
