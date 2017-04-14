@@ -1,7 +1,7 @@
 <html>
-<title>
+<head>
 This is Akaedo
-</title>
+</head>
 <body> 
 
 </body>
