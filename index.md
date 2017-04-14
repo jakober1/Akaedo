@@ -1,7 +1,7 @@
 <html>
-<head>
+<title>
 This is Akaedo
-</head>
+</title>
 <body> 
 
   <h> This is official Akaedo <h1>
@@ -10,10 +10,10 @@ This is Akaedo
 
 <style>
 
-  body}
+  body {
     background-color:green;
-    color:#FFF;
-    text-align:Center;
+    color:#fff;
+    text-align:center;
     }
     </style>
     
