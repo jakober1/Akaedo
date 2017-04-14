@@ -4,5 +4,18 @@ This is Akaedo
 </head>
 <body> 
 
+  <h> This is official Akaedo <h1>
+
 </body>
+
+<style>
+
+  body}
+    background-color:green;
+    color:#FFF;
+    text-align:Center;
+    }
+    </style>
+    
 </html>
+
