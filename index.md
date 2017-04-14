@@ -2,11 +2,6 @@
 <title>
 This is Akaedo
 </title>
-<body> 
-
-  <h> This is official Akaedo <h1>
-
-</body>
 
 <style>
 
@@ -16,6 +11,13 @@ This is Akaedo
     text-align:center;
     }
     </style>
+    
+<body> 
+
+  <h> This is official Akaedo <h1>
+
+</body>
+
     
 </html>
 
